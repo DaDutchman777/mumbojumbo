@@ -1,1 +1,3 @@
-<embed src="https://thatmumbojumbo.wixsite.com/view" style="width:500px; height: 300px;">
+<iframe src="https://thatmumbojumbo.wixsite.com/view" width="100%" height="300">
+  <p>Your browser does not support iframes.</p>
+</iframe>
